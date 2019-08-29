@@ -12,3 +12,9 @@ Felipe Andrade Gouvêa Tintori
 Alex Abdeneve Salazar Tancara
 
 Jorsi Ramos
+
+# Para Rodar, executar os comandos abaixo no terminal:
+
+npm install
+
+npm start
